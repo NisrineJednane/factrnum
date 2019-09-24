@@ -1,4 +1,4 @@
-//factorialize using basic for loop
+//using a for loop
 
 function factorNum(num) {
     let result = 1;
